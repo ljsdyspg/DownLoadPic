@@ -1,0 +1,5 @@
+<root>
+    <item name='com.baidu.lbsapi.panoramaview.PanoramaRequest'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
